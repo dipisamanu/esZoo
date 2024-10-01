@@ -1,0 +1,10 @@
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\bin\Debug\Zoo_DiPisa.exe.config
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\bin\Debug\Zoo_DiPisa.exe
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\bin\Debug\Zoo_DiPisa.pdb
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.csproj.AssemblyReference.cache
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.Form1.resources
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.Properties.Resources.resources
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.csproj.GenerateResource.cache
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.csproj.CoreCompileInputs.cache
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.exe
+C:\Users\manu\Desktop\esercizi visual studio\Zoo_DiPisa\Zoo_DiPisa\obj\Debug\Zoo_DiPisa.pdb
